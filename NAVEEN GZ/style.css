@@ -1,0 +1,61 @@
+.nav-item a
+{
+   color:green; 
+}
+.nav-item a:hover
+{
+   color:whitesmoke; 
+
+}
+
+.form-group
+{
+    display:flex;
+
+}
+
+h3
+{
+color:greenyellow;
+}
+.container-fluid
+{
+    background-color: black;
+}
+img:hover
+{
+  transform:scalex(0.5)rotatex(45deg)  
+}
+h1
+{
+    color:greenyellow;
+    text-align: center;
+}
+h4
+{
+    color:greenyellow;
+    padding:50px;
+}
+p{
+    color:greenyellow;
+    padding:20px;
+    border-radius:30px;
+    border:4px solid greenyellow;
+    box-shadow:6px 6px greenyellow;
+}
+p:hover{
+    transform:scale(0.8)
+
+}
+h5
+{
+    color:blueviolet;
+}
+.container
+{
+    color:aliceblue;
+    text-align: center;
+}
+.navbar-toggler:hover{
+    transform:scale(0.8);
+}
